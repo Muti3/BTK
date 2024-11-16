@@ -1,0 +1,5 @@
+Computer,749.99,30
+Laptop,999.99,20
+Airpods,199.99,52
+Camera,449.99,25
+Tablet,599.99,10
